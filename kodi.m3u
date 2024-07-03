@@ -1,0 +1,242 @@
+#EXTM3U
+#EXTINF:0,TVP 1
+plugin://plugin.video.kpl.tvp/station/T1D
+#EXTINF:0,TVP 2
+plugin://plugin.video.kpl.tvp/station/T2D
+#EXTINF:0,Polsat
+plugin://plugin.video.pilot.wp?action=PLAY&channel=9
+#EXTINF:0,TV4
+plugin://plugin.video.megogo?mode=playSource&cid=20856867
+#EXTINF:0,Stopklatka.tv HD
+plugin://plugin.video.megogo?mode=playSource&cid=20683846
+#EXTINF:0,Metro
+plugin://plugin.video.playermb/?mode=playm3u&channelid=2930752
+#EXTINF:0,TVN 7 HD
+plugin://plugin.video.playermb/?mode=playm3u&channelid=1908474
+#EXTINF:0,TVN HD
+plugin://plugin.video.playermb/?mode=playm3u&channelid=1908473
+#EXTINF:0,TV Puls HD
+plugin://plugin.video.megogo?mode=playSource&cid=20630596
+#EXTINF:0,TV Puls 2 HD
+plugin://plugin.video.megogo?mode=playSource&cid=20630576
+#EXTINF:0,TTV HD
+plugin://plugin.video.playermb/?mode=playm3u&channelid=1908475
+#EXTINF:0,Tele 5 HD
+plugin://plugin.video.megogo?mode=playSource&cid=20853567
+#EXTINF:0,Polonia 1 HD
+plugin://plugin.video.megogo?mode=playSource&cid=20853577
+#EXTINF:0,TVS
+plugin://plugin.video.megogo?mode=playSource&cid=20768696
+#EXTINF:0,TVP 3
+plugin://plugin.video.megogo?mode=playSource&cid=21094476
+#EXTINF:0,WP HD
+plugin://plugin.video.megogo?mode=playSource&cid=20891427
+#EXTINF:0,CTV - Telewizja Dla Ciebie
+plugin://plugin.video.megogo?mode=playSource&cid=23349366
+#EXTINF:0,Sportowa.TV
+plugin://plugin.video.megogo?mode=playSource&cid=22230086
+#EXTINF:0,Telewizja Biznesowa
+plugin://plugin.video.megogo?mode=playSource&cid=23638417
+#EXTINF:0,Music Box Polska
+plugin://plugin.video.megogo?mode=playSource&cid=20563656
+#EXTINF:0,STARS.TV HD
+plugin://plugin.video.megogo?mode=playSource&cid=20704326plugin://plugin.video.megogo?mode=playSource&cid=23178726
+
+#EXTINF:0,TBN Polska
+plugin://plugin.video.pilot.wp?action=PLAY&channel=204
+#EXTINF:0,13.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=274
+#EXTINF:0,TVT Rybnik
+plugin://plugin.video.pilot.wp?action=PLAY&channel=298
+
+#EXTINF:0,Auto Pilot
+plugin://plugin.video.pilot.wp?action=PLAY&channel=331
+#EXTINF:0,Didaskalia TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=340
+#EXTINF:0,wPolsce.pl
+plugin://plugin.video.pilot.wp?action=PLAY&channel=174
+#EXTINF:0,News24
+plugin://plugin.video.pilot.wp?action=PLAY&channel=272
+#EXTINF:0,TV Trwam
+plugin://plugin.video.pilot.wp?action=PLAY&channel=10
+#EXTINF:0,Karuzela Śmiechu
+plugin://plugin.video.pilot.wp?action=PLAY&channel=271
+#EXTINF:0,Gametoon
+plugin://plugin.video.pilot.wp?action=PLAY&channel=205
+#EXTINF:0,Benchmark TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=338
+#EXTINF:0,Pilot w Domu
+plugin://plugin.video.pilot.wp?action=PLAY&channel=330
+#EXTINF:0,Red Carpet TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=138
+#EXTINF:0,Fashion TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=58
+#EXTINF:0,Twoja.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=150
+#EXTINF:0,4FUN.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=21
+#EXTINF:0,4FUN DANCE
+plugin://plugin.video.pilot.wp?action=PLAY&channel=50
+#EXTINF:0,4FUN KIDS
+plugin://plugin.video.pilot.wp?action=PLAY&channel=22
+#EXTINF:0,Stars.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=24
+#EXTINF:0,Music Box Polska
+plugin://plugin.video.pilot.wp?action=PLAY&channel=188
+#EXTINF:0,Nuta GOLD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=172
+#EXTINF:0,Jazz
+plugin://plugin.video.pilot.wp?action=PLAY&channel=213
+#EXTINF:0,Transmisja z Sejmu
+plugin://plugin.video.pilot.wp?action=PLAY&channel=194
+
+#EXTINF:0,TVP Info
+plugin://plugin.video.kpl.tvp/station/INF
+#EXTINF:0,TVP Kultura
+plugin://plugin.video.kpl.tvp/station/T5D
+#EXTINF:0,TVP Historia
+plugin://plugin.video.kpl.tvp/station/TKH
+#EXTINF:0,TVP ABC
+plugin://plugin.video.kpl.tvp/station/ABC
+#EXTINF:0,TVP Sport
+plugin://plugin.video.kpl.tvp/station/KSP
+#EXTINF:0,TVP World
+plugin://plugin.video.kpl.tvp/station/PIE
+#EXTINF:0,TV Bielsat
+plugin://plugin.video.kpl.tvp/station/TVBI
+#EXTINF:0,TVP Wilno
+plugin://plugin.video.kpl.tvp/station/WILNO
+#EXTINF:0,TVP Kobieta
+plugin://plugin.video.kpl.tvp/station/KBT
+#EXTINF:0,TVP Dokument
+plugin://plugin.video.kpl.tvp/station/DOK
+#EXTINF:0,TVP NAUKA
+plugin://plugin.video.kpl.tvp/station/NK
+#EXTINF:0,TVP Polonia
+plugin://plugin.video.kpl.tvp/station/T4D
+#EXTINF:0,TVP Rozrywka
+plugin://plugin.video.kpl.tvp/station/TRO
+#EXTINF:0,Historia 2
+plugin://plugin.video.kpl.tvp/station/H2
+#EXTINF:0,ALFA TVP
+plugin://plugin.video.kpl.tvp/station/ALFA
+#EXTINF:0,ABC 2
+plugin://plugin.video.kpl.tvp/station/DMPR
+#EXTINF:0,Kultura 2
+plugin://plugin.video.kpl.tvp/station/KUL2
+#EXTINF:0,TVP 3 Białystok
+plugin://plugin.video.kpl.tvp/station/XCC
+#EXTINF:0,TVP 3 Bydgoszcz
+plugin://plugin.video.kpl.tvp/station/XBB
+#EXTINF:0,TVP 3 Gdańsk
+plugin://plugin.video.kpl.tvp/station/XGG
+#EXTINF:0,TVP 3 Gorzów Wlkp.
+plugin://plugin.video.kpl.tvp/station/XFF
+#EXTINF:0,TVP 3 Katowice
+plugin://plugin.video.kpl.tvp/station/XTT
+#EXTINF:0,TVP 3 Kielce
+plugin://plugin.video.kpl.tvp/station/XEE
+#EXTINF:0,TVP 3 Kraków
+plugin://plugin.video.kpl.tvp/station/XKK
+#EXTINF:0,TVP 3 Łódź
+plugin://plugin.video.kpl.tvp/station/XDD
+#EXTINF:0,TVP 3 Lublin
+plugin://plugin.video.kpl.tvp/station/XLL
+#EXTINF:0,TVP 3 Olsztyn
+plugin://plugin.video.kpl.tvp/station/XHH
+#EXTINF:0,TVP 3 Opole
+plugin://plugin.video.kpl.tvp/station/XJJ
+#EXTINF:0,TVP 3 Poznań
+plugin://plugin.video.kpl.tvp/station/XPP
+#EXTINF:0,TVP 3 Rzeszów
+plugin://plugin.video.kpl.tvp/station/XRR
+#EXTINF:0,TVP 3 Szczecin
+plugin://plugin.video.kpl.tvp/station/XSS
+#EXTINF:0,TVP 3 Warszawa
+plugin://plugin.video.kpl.tvp/station/XAA
+#EXTINF:0,TVP 3 Wrocław
+plugin://plugin.video.kpl.tvp/station/XWW
+#EXTINF:0,TVP PARLAMENT SEJM
+plugin://plugin.video.kpl.tvp/station/PARSEJM
+#EXTINF:0,TVP PARLAMENT SENAT
+plugin://plugin.video.kpl.tvp/station/PARSENAT
+
+#EXTINF:0,TVN Rewolucje w Kuchni Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759890
+#EXTINF:0,TVN Pora na Show Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=9474311
+#EXTINF:0,TVN Milionerzy Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=9083862
+#EXTINF:0,TVN Kultowe Seriale Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759882
+#EXTINF:0,TVN Rajska Miłość Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759881
+#EXTINF:0,TVN Kryminalnie Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759884
+#EXTINF:0,TVN Telenowele Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759887
+#EXTINF:0,TVN Momenty Prawdy Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759880
+#EXTINF:0,TVN Życie Jak w Bajce Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759891
+#EXTINF:0,TVN Talk Show Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759886
+#EXTINF:0,TVN Szpitalne Historie Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759892
+#EXTINF:0,TVN Szkoła Życia Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759893
+#EXTINF:0,TVN Seriale o Kobietach Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759888
+#EXTINF:0,TVN W Domu Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759889
+#EXTINF:0,TVN Moto Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759883
+#EXTINF:0,TVN Usterka Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759885
+#EXTINF:0,TVN Prawo i Życie Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759879
+
+#EXTINF:0,France 24 English
+plugin://plugin.video.pilot.wp?action=PLAY&channel=17
+#EXTINF:0,France 24 (français) HD
+plugin://plugin.video.megogo?mode=playSource&cid=22226836
+#EXTINF:0,France 24
+plugin://plugin.video.pilot.wp?action=PLAY&channel=18
+#EXTINF:0,France 24 (español) HD
+plugin://plugin.video.megogo?mode=playSource&cid=22953836
+#EXTINF:0,France 24 (arabic)
+plugin://plugin.video.megogo?mode=playSource&cid=4412601
+
+#EXTINF:0,TVP 1 HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=3
+#EXTINF:0,TVP 2 HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=5
+#EXTINF:0,TV 4
+plugin://plugin.video.pilot.wp?action=PLAY&channel=11
+#EXTINF:0,TVN
+plugin://plugin.video.pilot.wp?action=PLAY&channel=14
+#EXTINF:0,TV Puls
+plugin://plugin.video.playermb/?mode=playm3u&channelid=9353728
+#EXTINF:0,TV Puls
+plugin://plugin.video.pilot.wp?action=PLAY&channel=12
+#EXTINF:0,Puls 2
+plugin://plugin.video.pilot.wp?action=PLAY&channel=312
+#EXTINF:0,Tele 5
+plugin://plugin.video.pilot.wp?action=PLAY&channel=212
+#EXTINF:0,Polonia 1
+plugin://plugin.video.pilot.wp?action=PLAY&channel=211
+#EXTINF:0,TVS
+plugin://plugin.video.pilot.wp?action=PLAY&channel=51
+#EXTINF:0,WP
+plugin://plugin.video.pilot.wp?action=PLAY&channel=158
+#EXTINF:0,TVP Warszawa
+plugin://plugin.video.pilot.wp?action=PLAY&channel=57
+#EXTINF:0,TVP Gdańsk
+plugin://plugin.video.pilot.wp?action=PLAY&channel=187
+
+#EXTINF:0, radio="true",WP Radio
+plugin://plugin.video.pilot.wp?action=PLAY&channel=266
+#EXTINF:0, radio="true",Radio 357
+plugin://plugin.video.pilot.wp?action=PLAY&channel=240
+#EXTINF:0, radio="true",Radio Nowy Świat
+plugin://plugin.video.pilot.wp?action=PLAY&channel=238
